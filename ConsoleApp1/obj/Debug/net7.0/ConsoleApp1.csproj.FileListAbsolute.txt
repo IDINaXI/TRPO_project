@@ -1,0 +1,14 @@
+/Users/dinax/kpypLaby/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/dinax/kpypLaby/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/dinax/kpypLaby/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/dinax/kpypLaby/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/dinax/kpypLaby/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/dinax/kpypLaby/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
